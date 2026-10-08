@@ -1,0 +1,2 @@
+Annotated scans cropped from the rendered edited lecture PDFs, preserving visible PDF arrows/circles inside each image boundary. Some source scans have embedded diagnostic text or annotations, and some overlays may fall outside the image boundary. Review every case for accuracy before sharing. The website uses _annotated.jpg versions on Reveal Answer.
+Images processed: 51; image entries: 51; cases: 48
